@@ -1,0 +1,180 @@
+#field,#mazefield,#bulletfield{position: absolute;}
+#info{
+    position: absolute;
+right: 20px;
+top: 50px;
+border: solid 1px;
+padding: 5px;
+width: 100px;
+}
+
+.tank{
+position:absolute;
+background: linear-gradient(to bottom, Linen, Burlywood);
+background-size: 100%;
+background-position: center;
+background-repeat: no-repeat;
+color: yellow;
+z-index: 100;
+/*border:solid black 1px;;
+border-bottom-color: red;*/
+}
+.Tank1{background-image: url(../img/tank1.svg);}
+.Tank2{background-image: url(../img/tank2.svg);}
+
+.MazeCube,.BrickBlock,.SolidBlock{
+position:absolute;
+/*background: linear-gradient(to bottom, Linen, Burlywood);*/
+border-style: solid;
+border-color: black;
+border-width: 1px;
+box-shadow:3px 3px 6px black;
+z-index: 80;
+background-image: url(../img/brick.svg);
+background-size: 100%;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.SolidBlock{
+    background-image: url(../img/solid.svg);
+}
+
+.BrickBlock{
+    background-image: url(../img/brick.svg);
+}
+
+.shot{
+    position:absolute;
+    border-style: solid;
+    border-color: Brown;
+    border-width: 1px;
+    border-radius: 25px;
+    z-index: 70;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/shot.svg);
+}
+
+.EscapeCube{
+position:absolute;
+background: linear-gradient(to bottom, Burlywood ,Linen);
+box-shadow:inset 2px 2px 3px Saddlebrown;
+border-bottom-color: Burlywood;
+border-bottom-width: 3px;
+border-left-color: Bisque;
+border-left-width: 2px;
+border-radius: 5px;
+border-right-color: Burlywood;
+border-right-width: 3px;
+border-style: groove;
+border-top-color: Bisque;
+border-top-width: 2px;
+background-size: 100%;
+background-position: center;
+background-repeat: no-repeat;
+color: black;
+background-image: url(../img/escape.svg);
+}
+
+.WinMsg{position:absolute;padding:5px;background: linear-gradient(to bottom, Linen, Burlywood);border-radius: 6px;z-index: 100;}
+
+/* Проявление */
+ @-webkit-keyframes appearanim {
+    0% {opacity: 0;}
+    100% {opacity: 1;} 
+ }
+
+ /* Исчезание */
+ @-webkit-keyframes dissappearanim {
+    0% {opacity: 1;}
+    100% {opacity: 0;} 
+ }
+
+/*Мерцающая граница*/
+   @-webkit-keyframes borderanim1 {
+0% {border-color:white;border-radius: 10px;}
+40% {border-color:Wheat;border-radius: 10px;}
+60% {border-color:Saddlebrown;border-radius: 10px;}
+100% {border-color:Linen;border-radius: 10px;}
+ }
+
+ /*Разрушение стены*/
+   @-webkit-keyframes walldestruct {
+ 0% {background-image: url(../img/brick.svg);}
+ 40% {background-image: url(../img/brick1.svg);}
+ 60% {background-image: url(../img/brick2.svg);}
+ 100% {background-image: url(../img/brick3.svg);}
+  }
+
+ /*Открыть выход*/
+@-webkit-keyframes escapeopen {
+0% {background-image: url(../img/escape1.svg);}
+20% {background-image: url(../img/escape2.svg);}
+40% {background-image: url(../img/escape3.svg);}
+60% {background-image: url(../img/escape4.svg);}
+80% {background-image: url(../img/escape5.svg);}
+100% {background-image: url(../img/escape6.svg);}
+}
+
+ .WinMsg,.EscapeCube{
+-webkit-animation-name:appearanim;
+-webkit-animation-timing-function:linear;
+-webkit-animation-duration:2s;
+-webkit-animation-delay:0s;
+-webkit-animation-iteration-count:once;
+-webkit-animation-direction:alternate;
+-webkit-animation-play-state:running;	
+}
+
+ .tank{
+-webkit-animation-name:appearanim,borderanim1;
+-webkit-animation-timing-function:linear;
+-webkit-animation-duration:3s;
+-webkit-animation-delay:0s;
+-webkit-animation-iteration-count:once;
+-webkit-animation-direction:alternate;
+-webkit-animation-play-state:running;   
+}
+
+
+.shot{
+-webkit-animation-name:appearanim,borderanim1;
+-webkit-animation-timing-function:linear;
+-webkit-animation-duration:0.5s;
+-webkit-animation-delay:0s;
+-webkit-animation-iteration-count:once;
+-webkit-animation-direction:alternate;
+-webkit-animation-play-state:running;	
+}
+
+.MazeCube{
+-webkit-animation-name:appearanim;
+-webkit-animation-timing-function:linear;
+-webkit-animation-duration:4s;
+-webkit-animation-delay:0s;
+-webkit-animation-iteration-count:once;
+-webkit-animation-direction:alternate;
+-webkit-animation-play-state:running;	
+}
+
+/*.BrickBlock{
+ -webkit-animation-name:walldestruct;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-duration:5s;
+ -webkit-animation-delay:2s;
+ -webkit-animation-iteration-count:infinite;
+ -webkit-animation-direction:alternate;
+ -webkit-animation-play-state:running;  
+}*/
+
+/*.EscapeCube{
+ -webkit-animation-name:escapeopen;
+ -webkit-animation-timing-function:linear;
+ -webkit-animation-duration:2s;
+ -webkit-animation-delay:0s;
+ -webkit-animation-iteration-count:infinite;
+ -webkit-animation-direction:alternate;
+ -webkit-animation-play-state:running;
+}*/

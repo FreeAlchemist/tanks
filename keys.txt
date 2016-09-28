@@ -1,0 +1,22 @@
+left arrow 37
+up arrow 38
+right arrow 39
+down arrow 40
+escape 27
+enter 13
+0 48
+1 49
+2 50
+3 51
+4 52
+5 53
+6 54
+7 55
+8 56
+9 57
+space 31
+NumPad0 96
+W 87
+A 65
+S 83
+D 68

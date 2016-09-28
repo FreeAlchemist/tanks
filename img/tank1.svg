@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 tank1.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.701389in" height="0.701389in"
+		viewBox="0 0 50.5 50.5" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:url(#grad29-6);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {visibility:visible}
+		.st4 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st5 {fill:url(#ptrn6-12);shape-rendering:crispEdges;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st6 {fill:url(#grad29-19);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st7 {fill:url(#grad35-26);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st8 {fill:#2c3117;fill-opacity:0.5;stroke:#2c3117;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st9 {fill:url(#grad29-36);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st10 {fill:#1c200f;fill-opacity:0.5;stroke:#1c200f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
+		.st11 {fill:url(#grad40-42);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad29-6" v:fillPattern="29" v:foreground="#f0f0f0" v:background="#7f7f7f" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" style="stop-color:#7f7f7f;stop-opacity:1"/>
+			<stop offset="0.5" style="stop-color:#f0f0f0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#7f7f7f;stop-opacity:1"/>
+		</linearGradient>
+		<pattern id="ptrn6-12" v:fillPattern="6" v:foreground="#f2f2f2" v:background="#453629" patternUnits="userSpaceOnUse"
+				width="6" height="6" viewBox="0 0 64 64">
+			<image x="0" y="0" width="64" height="64" image-rendering="optimizeSpeed"
+					xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAbSURBVChTY/j06dN/fJjB1UzzPz48HBRo/gcAxqJ6Ud79ex4AAAAASUVORK5CYII="/>
+		</pattern>
+		<linearGradient id="grad29-19" v:fillPattern="29" v:foreground="#f2f2f2" v:foregroundOpacity="0.25" v:background="#453629"
+				v:backgroundOpacity="0.25" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" style="stop-color:#453629;stop-opacity:0.25"/>
+			<stop offset="0.5" style="stop-color:#f2f2f2;stop-opacity:0.25"/>
+			<stop offset="1" style="stop-color:#453629;stop-opacity:0.25"/>
+		</linearGradient>
+		<pattern id="grad35-26" v:fillPattern="35" v:foreground="#ffffff" v:background="#5f6c35" x="0" y="0" width="1" height="1"
+				patternContentUnits="objectBoundingBox">
+			<path d="M 0.5 0.5 L 0 0 L 0 1 z" style="fill:url(#grad27-27)"/>
+			<path d="M 0.5 0.5 L 1 0 L 1 1 z" style="fill:url(#grad25-28)"/>
+			<path d="M 0.5 0.5 L 0 0 L 1 0 z" style="fill:url(#grad30-29)"/>
+			<path d="M 0.5 0.5 L 0 1 L 1 1 z" style="fill:url(#grad28-30)"/>
+		</pattern>
+		<linearGradient id="grad27-27" v:fillPattern="35" v:foreground="#ffffff" v:background="#5f6c35" x1="1" y1="0" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad25-28" v:fillPattern="35" v:foreground="#ffffff" v:background="#5f6c35" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-29" v:fillPattern="35" v:foreground="#ffffff" v:background="#5f6c35" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad28-30" v:fillPattern="35" v:foreground="#ffffff" v:background="#5f6c35" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad29-36" v:fillPattern="29" v:foreground="#d1dab4" v:background="#5f6c35" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" style="stop-color:#5f6c35;stop-opacity:1"/>
+			<stop offset="0.5" style="stop-color:#d1dab4;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</linearGradient>
+		<radialGradient id="grad40-42" v:fillPattern="40" v:foreground="#e0e6cd" v:background="#5f6c35" cx="0.5" cy="0.5" r="0.5">
+			<stop offset="0" style="stop-color:#e0e6cd;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#5f6c35;stop-opacity:1"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.25,-0.25)">
+			<title>Квадрат</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="0.5" width="50" height="50" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(13.6558,-2.06102)">
+			<title>Прямоугольник</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="8.69383" width="24.0702" height="41.8062" class="st2"/>
+		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(37.5994,-4.59473)">
+			<title>Прямоугольник.3</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow3-8" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st3">
+				<rect x="0" y="13.7612" width="6.33427" height="36.7388" class="st4"/>
+			</g>
+			<rect x="0" y="13.7612" width="6.33427" height="36.7388" class="st5"/>
+		</g>
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(7.19488,-4.59473)">
+			<title>Прямоугольник.4</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="13.7612" width="6.33427" height="36.7388" class="st5"/>
+		</g>
+		<g id="shape5-16" v:mID="5" v:groupContext="shape" transform="translate(37.7969,-4.89567)">
+			<title>Прямоугольник.5</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="13.7612" width="6.33427" height="36.7388" class="st6"/>
+		</g>
+		<g id="shape6-20" v:mID="6" v:groupContext="shape" transform="translate(7.39243,-4.93261)">
+			<title>Прямоугольник.6</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="13.7612" width="6.33427" height="36.7388" class="st6"/>
+		</g>
+		<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(17.2285,-5.37899)">
+			<title>Прямоугольник.8</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<rect x="0" y="20.2855" width="17.0233" height="30.2145" class="st7"/>
+		</g>
+		<g id="shape9-31" v:mID="9" v:groupContext="shape" transform="translate(71.1694,3.08465) rotate(90)">
+			<title>Прямоугольник.9</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow9-32" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="1" v:shadowScale="1.1"
+					transform="matrix(1.1,0,0,1.1,-0.950508,-4.59194)" class="st3">
+				<rect x="0" y="41.3388" width="19.0102" height="9.16122" class="st8"/>
+			</g>
+			<rect x="0" y="41.3388" width="19.0102" height="9.16122" class="st9"/>
+		</g>
+		<g id="shape7-37" v:mID="7" v:groupContext="shape" transform="translate(18.6536,-11.1379)">
+			<title>Эллипс</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow7-38" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="1"
+					v:shadowScale="1.15" transform="matrix(1.15,0,0,1.15,-1.06299,-6.17276)" class="st3">
+				<path d="M0 41.15 A7.08661 9.3483 0 0 1 14.17 41.15 A7.08661 9.3483 0 1 1 0 41.15 Z" class="st10"/>
+			</g>
+			<path d="M0 41.15 A7.08661 9.3483 0 0 1 14.17 41.15 A7.08661 9.3483 0 1 1 0 41.15 Z" class="st11"/>
+		</g>
+	</g>
+</svg>
